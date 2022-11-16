@@ -17,7 +17,7 @@
 | 180542012 Bünyamin Kiremit   | Yapay zeka dev. | 
 | 180542010 Mehmetcan Tozlu   | Yapay zeka dev. | 
 | 190541014 Hasan Demir  | Yapay zeka dev. | 
-| 190541014 Ömer Faruk Konca  | Yapay zeka dev.| 
+| 190541018 Ömer Faruk Konca  | Yapay zeka dev.| 
 | 190541004 Ali İmran Atabey  | Yapay zeka dev.| 
 | 190541087 Seydi Sarıtaş   | Front End dev. - Scrum Master | 
 
